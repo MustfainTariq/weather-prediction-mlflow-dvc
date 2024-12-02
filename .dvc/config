@@ -1,0 +1,7 @@
+[core]
+    remote = gdrive
+[remote "gdrive"]
+    url = gdrive://1dBCSIEAU_pZ-jvPA9I5NlLW_FwCbIw7z
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = /home/mustfain/Desktop/MLOPS-Project/weather-prediction-mlflow-dvc/weather-prediction-443519-09bfe1f07a0e.json
+
