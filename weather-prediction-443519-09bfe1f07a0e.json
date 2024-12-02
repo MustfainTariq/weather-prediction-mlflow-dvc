@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "weather-prediction-443519",
+  "private_key_id": "09bfe1f07a0e258b9da5908e4deef0618b98af30",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDcSStx2vSQBcV+\nYYjyGA1Ib2PluHIXCNMszJWD+1V49Is+eJ9N926YDajIF0buSzSJWQoXoqjHx2bd\nPCcFgDEGAGCNlc4X2gpOrtujeO7D92HMWtNly4ppOiJqdUJBYiOJCRWg9HInwfa/\nExjAKlTmnQi7JWrW9lnNV95RgZiwBn4Oja/3jqy520cLFjXzCUjX5jyvMvFzje8b\nwRs1dXDK/FBclfvem9etiQOhnfs/Tj0jLipfgFGWCpffXx0JGDTmIF0AYuNdpVXK\n1ZXMatnI/yVqMWMp4CsoOcT3yB5DNjOMxJMpSabdOWVYp1MJsY+3fQejI0Isp/i+\nsfVQQdfZAgMBAAECggEAJxU2R4uE436apQsR/H3m8WiN7UZ1u3991A9yIYn4hq7A\ne7Nz9CXHseOOg/2ZQJMIPawV/c6GqndG2U6gT7oIOJvdhZFEEPhG5uHgJxdAKXWd\nHOAqbH+ZzYSacY/fUvFiA6CgfT+Rd1tS92Cgfgukp4vJ7kY7t+raUPPbhlN7bxNL\nVPSC1X41SnS7MJyAuUzZgh7I1v0OgMw6FrPkwgEYxCq+n7RTndbUBaASfnqEyGjS\nTpC0Q/I5tcSOJE1WuKpY1mkBIw+FMEV+JxM9xUxZN3WDrjIU0tNrnHyyd7CFrimy\nzB9zlP3YHnweSAa+fUu1dB8x8tgIp/UE31STbIki1wKBgQD+7Vded5A4UDAw1SeV\n6G1Dj8NWUHf5061hWhTvNCxIbfRA6qP4RJ3e7eT1ZuGl/sSLqmcNrd5xWmf2vqu2\nWaWVtJe5uC6VoOsUZCVZIgQiykSZtzPtIiO7z3soEYxIQhnfcAjKuCIyBDYIlqMf\nqVZhZnia70GE9KSXXF60/qhDDwKBgQDdNoF/z+n2PfbrmcYhAk65VemRsAHtcel+\nu0yQn7i+ZBDLahYi8yOiaS3NBpEQdlg0rufgc+LxaszkgI/ufBTDqJqaO1IvmdDj\n8D2TuBT/zwkITGh+wwykt6Qd4EdGysxGxiWoOMKB0cDdpuFTZh7FvZQmBykeFO/H\nOdk3utEWlwKBgCiILAAFGpUZis/41BZtohG/5drvaGP8V/DGldWCghfyA4fexrtO\njZtIT8ME3JO78hwSt9fg8SEssqL0pfCUSFOJJyaMNjvsHfRcB+QoGGg/qLCYBFWL\nvAq8bmRshdVnTR3Nflhc9nLlYIH1EXKTRfyugjaAG/a7vv+h3B0C8FXZAoGAQz27\nNW+srWX+dXUjrYr3BQ0hV2CJ5XQ3xocGafuy+2SNWlef7PW9QjP4cRbq53chrrnv\nz+FJ/Zo6N8cAeTyMT0Ej5Xfcro1x2qd/ADT3ZR64nyYiqU1+vV746v/uio1AdM7s\nSWsfbLimiHmeimxDNFZA/yI0FGnGzOc/qNoHjncCgYEAk4sSGTFHtjdrWqhNV9qK\nvCMSVodUT8lZowA3TYmSvODFbos01XlIGCwinYyQ5Co5vpunVEEwHtCW78VWcC8p\nbu63mqeb/fnMma68TyZS2PGC2tra2fvGue6wisM0516woCR6JUYpZ7yRzY51HFHK\n0cQxRg9kD/rvGeIHoMOdU5w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dvc-924@weather-prediction-443519.iam.gserviceaccount.com",
+  "client_id": "117946791152731067944",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dvc-924%40weather-prediction-443519.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
