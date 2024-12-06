@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d86c7572d4d646ccb7bbcb991afb3586/artifacts
+end_time: 1733470683007
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d86c7572d4d646ccb7bbcb991afb3586
+run_name: secretive-duck-425
+run_uuid: d86c7572d4d646ccb7bbcb991afb3586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733470681306
+status: 3
+tags: []
+user_id: mustfain

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cc2c59f0d39d4266ac7d4046d366fccd/artifacts
+end_time: 1733470603858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc2c59f0d39d4266ac7d4046d366fccd
+run_name: adaptable-vole-44
+run_uuid: cc2c59f0d39d4266ac7d4046d366fccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733470602317
+status: 3
+tags: []
+user_id: mustfain

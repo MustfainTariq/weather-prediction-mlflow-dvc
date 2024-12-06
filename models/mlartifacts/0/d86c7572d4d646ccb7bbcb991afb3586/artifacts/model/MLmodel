@@ -1,0 +1,33 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 1217
+model_uuid: ee1a8bfbe5e44768bae4aef58468c3f7
+run_id: d86c7572d4d646ccb7bbcb991afb3586
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: json_object
+signature:
+  inputs: '[{"type": "long", "name": "Humidity", "required": true}, {"type": "double",
+    "name": "Wind Speed", "required": true}, {"type": "boolean", "name": "Weather
+    Condition_clear sky", "required": true}, {"type": "boolean", "name": "Weather
+    Condition_few clouds", "required": true}, {"type": "boolean", "name": "Weather
+    Condition_overcast clouds", "required": true}, {"type": "boolean", "name": "Weather
+    Condition_scattered clouds", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+utc_time_created: '2024-12-06 07:38:01.335256'
