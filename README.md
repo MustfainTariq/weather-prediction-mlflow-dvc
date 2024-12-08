@@ -12,7 +12,6 @@ Follow the instructions below to set up and run the project.
 
 Apache Airflow is used for orchestrating the data pipeline tasks. To install and set up Apache Airflow:
 
-```bash
 # Define the desired version of Airflow
 AIRFLOW_VERSION=2.7.3  # Check the latest version on the official website
 
@@ -22,14 +21,11 @@ pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "https://raw.githu
 2. Initialize Airflow Database
 Before starting the Airflow scheduler and web server, initialize the Airflow database:
 
-bash
-Copy code
+
 airflow db init
 3. Start Airflow Services
 Run the Airflow scheduler and web server:
 
-bash
-Copy code
 # Start the scheduler
 airflow scheduler
 
@@ -38,14 +34,12 @@ airflow webserver --port 8080
 4. Install MLflow
 MLflow is used to track machine learning experiments, models, and results. To install MLflow, run:
 
-bash
-Copy code
+
 pip install mlflow
 5. Install Backend Dependencies
 Ensure the backend application is ready by installing the necessary dependencies and running the server:
 
-bash
-Copy code
+
 # Install any required dependencies (if needed, via requirements.txt)
 pip install -r requirements.txt
 
@@ -54,8 +48,7 @@ python3 app.py
 6. Install Frontend Dependencies
 To set up and run the frontend application:
 
-bash
-Copy code
+
 # Install frontend dependencies
 npm install
 
@@ -65,16 +58,14 @@ Running the Project
 Trigger Data Pipeline (Airflow)
 To trigger the data pipeline via Airflow, use the following command:
 
-bash
-Copy code
+
 airflow dags trigger data_pipeline
 This will initiate the specified data pipeline within Airflow.
 
 Run MLflow UI
 To view and manage machine learning experiments and models, run the MLflow UI:
 
-bash
-Copy code
+
 mlflow ui
 The MLflow UI will be available at http://localhost:5000 by default.
 
@@ -89,6 +80,3 @@ Airflow Web Server Not Starting: Ensure that the Airflow database is initialized
 MLflow UI Not Accessible: Make sure the MLflow UI is running on the default port (5000). If necessary, change the port with the --port flag.
 Conclusion
 This README provides all the steps necessary to set up and run the project. If you encounter any issues during setup or execution, please check the logs and review the configuration settings for each component.
-
-csharp
-Copy code
