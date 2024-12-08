@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b4d63ab05b5e44b1a2d1ae9c7564f9a2/artifacts
+end_time: 1733652575125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4d63ab05b5e44b1a2d1ae9c7564f9a2
+run_name: peaceful-fly-325
+run_uuid: b4d63ab05b5e44b1a2d1ae9c7564f9a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733652573186
+status: 3
+tags: []
+user_id: mustfain

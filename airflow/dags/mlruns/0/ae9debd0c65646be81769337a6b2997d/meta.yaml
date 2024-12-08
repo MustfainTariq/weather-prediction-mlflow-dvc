@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ae9debd0c65646be81769337a6b2997d/artifacts
+end_time: 1733652657453
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae9debd0c65646be81769337a6b2997d
+run_name: nimble-ant-270
+run_uuid: ae9debd0c65646be81769337a6b2997d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733652655797
+status: 3
+tags: []
+user_id: mustfain

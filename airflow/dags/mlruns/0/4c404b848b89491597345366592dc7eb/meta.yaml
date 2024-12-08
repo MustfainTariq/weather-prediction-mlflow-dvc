@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4c404b848b89491597345366592dc7eb/artifacts
+end_time: 1733653288185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4c404b848b89491597345366592dc7eb
+run_name: dapper-fish-403
+run_uuid: 4c404b848b89491597345366592dc7eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733653286427
+status: 3
+tags: []
+user_id: mustfain

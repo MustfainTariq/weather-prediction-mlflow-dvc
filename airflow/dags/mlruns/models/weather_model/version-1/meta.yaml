@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1733652575116
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1733653288182
+name: weather_model
+run_id: b4d63ab05b5e44b1a2d1ae9c7564f9a2
+run_link: ''
+source: mlflow-artifacts:/0/b4d63ab05b5e44b1a2d1ae9c7564f9a2/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/b4d63ab05b5e44b1a2d1ae9c7564f9a2/artifacts/model
+user_id: null
+version: 1
