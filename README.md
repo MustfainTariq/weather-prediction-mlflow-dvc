@@ -16,8 +16,7 @@ Apache Airflow is used for orchestrating the data pipeline tasks. To install and
 AIRFLOW_VERSION=2.7.3  # Check the latest version on the official website
 
 # Get the Python version and install Airflow with appropriate constraints
-PYTHON_VERSION="$(python3 --version | cut -d ' ' -f 2 | cut -d '.' -f 1-2)"
-pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
+pip install airflow
 2. Initialize Airflow Database
 Before starting the Airflow scheduler and web server, initialize the Airflow database:
 
@@ -80,3 +79,7 @@ Airflow Web Server Not Starting: Ensure that the Airflow database is initialized
 MLflow UI Not Accessible: Make sure the MLflow UI is running on the default port (5000). If necessary, change the port with the --port flag.
 Conclusion
 This README provides all the steps necessary to set up and run the project. If you encounter any issues during setup or execution, please check the logs and review the configuration settings for each component.
+
+
+## Medium Blog:
+https://medium.com/@mustfain1234/%EF%B8%8F-building-a-weather-forecasting-pipeline-with-machine-learning-apis-and-modern-tools-9f6febe4daa1
