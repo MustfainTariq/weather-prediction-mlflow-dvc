@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f930807dec144459985789dd57d0359d/artifacts
+end_time: 1733772127266
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f930807dec144459985789dd57d0359d
+run_name: rare-ape-818
+run_uuid: f930807dec144459985789dd57d0359d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733772125488
+status: 3
+tags: []
+user_id: mustfain

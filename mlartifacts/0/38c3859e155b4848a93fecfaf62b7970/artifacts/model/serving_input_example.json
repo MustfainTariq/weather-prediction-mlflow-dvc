@@ -1,0 +1,10 @@
+{
+  "inputs": {
+    "Humidity": 27,
+    "Wind Speed": 0.8625592417061612,
+    "Weather Condition_clear sky": false,
+    "Weather Condition_few clouds": false,
+    "Weather Condition_overcast clouds": false,
+    "Weather Condition_scattered clouds": false
+  }
+}
